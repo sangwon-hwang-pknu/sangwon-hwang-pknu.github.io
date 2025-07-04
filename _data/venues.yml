@@ -4,6 +4,9 @@
 "journal":
   color: "#FF6B35"
 
+"patent":
+  color: "#FF6B35"
+
 "domestic":
   color: "#3A86FF"
 
@@ -36,4 +39,8 @@
 
 "ICTC":
   url: https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings
+  color: "#7CB518"
+
+"WCL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382
   color: "#7CB518"
