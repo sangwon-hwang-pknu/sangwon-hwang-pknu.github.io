@@ -1,7 +1,8 @@
 ---
 layout: about
 permalink: /
-subtitle: AIDAN Lab
+titleImage: aidan.png
+subtitle: Artificial Intelligence for Distributed Autonomous Networks Lab
 
 announcements:
   enabled: true # includes a list of news items
@@ -10,7 +11,7 @@ announcements:
 
 profile:
   align: right
-  image: 12.jpg
+  image: aidan.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -19,4 +20,4 @@ profile:
 
 ---
 
-AIDAN Lab.
+Artificial Intelligence for Distributed Autonomous Networks Lab
