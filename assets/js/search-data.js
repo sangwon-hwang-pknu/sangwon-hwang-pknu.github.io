@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -32,12 +32,22 @@ ninja.data = [{
           },
         },{id: "nav-members",
           title: "members",
-          description: "members of the lab or group",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "members-sangwon-hwang",
+          title: 'Sangwon Hwang',
+          description: "Ph.D.s.won.hwang@pknu.ac.krDivision of Computer and AI Engineering, Pukyong National University",
+          section: "Members",handler: () => {
+              window.location.href = "/members/sangwon-hwang.html";
+            },},{id: "members-seunghyeon-shin",
+          title: 'Seunghyeon Shin',
+          description: "M.S.shin.sh@hyundai.comResearch Engineer, Electronic Network Validation Team, Hyundai Motor Company",
+          section: "Members",handler: () => {
+              window.location.href = "/members/seunghyeon-shin.html";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
