@@ -1,9 +1,39 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"conference":
+  color: "#FF6B35"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"journal":
+  color: "#FF6B35"
 
-"Vision":
-  color: "#009f36"
+"domestic":
+  color: "#3A86FF"
+
+"international":
+  color: "#3A86FF"
+
+"WC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742
+  color: "#7CB518"
+
+"TWC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693
+  color: "#7CB518"
+
+"IotJ":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907
+  color: "#7CB518"
+
+"TVT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25
+  color: "#7CB518"
+
+"WCNC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000817/all-proceedings
+  color: "#7CB518"
+
+"Globecom":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000308/all-proceedings
+  color: "#7CB518"
+
+"ICTC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings
+  color: "#7CB518"
