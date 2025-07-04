@@ -1,46 +1,46 @@
 "conference":
-  color: "#FF6B35"
+  color: "#FFFFFF"
 
 "journal":
-  color: "#FF6B35"
+  color: "#FFFFFF"
 
 "patent":
-  color: "#FF6B35"
+  color: "#FFFFFF"
 
 "domestic":
-  color: "#3A86FF"
+  color: "#FFFFFF"
 
 "international":
-  color: "#3A86FF"
+  color: "#FFFFFF"
 
 "WC":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "TWC":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "IotJ":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "TVT":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "WCNC":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000817/all-proceedings
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "Globecom":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000308/all-proceedings
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "ICTC":
   url: https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings
-  color: "#7CB518"
+  color: "#FFFFFF"
 
 "WCL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382
-  color: "#7CB518"
+  color: "#FFFFFF"
