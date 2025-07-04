@@ -101,7 +101,9 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  # projects:
+  #   output: true
+  research:
     output: true
 
 # -----------------------------------------------------------------------------
