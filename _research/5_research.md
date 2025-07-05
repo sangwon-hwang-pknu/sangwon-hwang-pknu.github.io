@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-agent System
+title: Multi-Agent System
 description: multi-agent system description
 img: assets/img/5.jpg
 importance: 5

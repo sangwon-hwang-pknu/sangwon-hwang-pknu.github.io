@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-titleImage: aidan.png
+titleImage: aidan_logo_1.png
 title: home
 subtitle: Artificial Intelligence for Distributed Autonomous Networks Lab
 
@@ -12,13 +12,12 @@ announcements:
 
 profile:
   align: right
-  image: aidan.png
+  image: aidan_logo_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Room 1315, Woongbi Hall (A12)</p>
+    <p>45, Yongso-ro, Nam-gu</p>
+    <p>Busan, 48513, Korea</p>
 ---
 
-Artificial Intelligence for Distributed Autonomous Networks Lab
+Artificial Intelligence for Distributed Autonomous Networks (AIDAN) Lab studies wireless communications systems with signal processing, communication theory, and machine learning for future wireless networks.
