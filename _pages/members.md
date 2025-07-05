@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 nav: true
 nav_order: 7
-display_categories: [professor, alumni, students]
+display_categories: [professor, alumni, students, co-researcher]
 horizontal: false
 ---
 

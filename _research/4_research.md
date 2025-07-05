@@ -1,11 +1,10 @@
 ---
 layout: page
-title: artificial intelligence
-description: intelligent entities
-img: assets/img/3.jpg
-importance: 2
+title: deep reinforcement learning
+description: deep reinforcement learning
+img: assets/img/7.jpg
+importance: 4
 category: milestone
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

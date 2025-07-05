@@ -1,11 +1,10 @@
 ---
 layout: page
-title: deep reinforcement learning
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 1
-category: fun
+title: single-agent deep reinforcement learning
+description: To optimize key factors of communication systems in centralized manner, we propose single-agent deep reinforcement learning framework.
+img: assets/img/6.jpg
+importance: 4
+category: category
 ---
 
 Every project has a beautiful feature showcase page.

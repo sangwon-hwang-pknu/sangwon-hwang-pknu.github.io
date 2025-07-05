@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: multi-agent deep reinforcement learning
+description: To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.
+img: assets/img/9.jpg
 importance: 3
-category: fun
+category: framework
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

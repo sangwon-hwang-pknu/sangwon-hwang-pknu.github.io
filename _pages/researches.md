@@ -2,10 +2,10 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: Direction and category of our research area
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [milestone, scenario, framework]
 horizontal: false
 ---
 

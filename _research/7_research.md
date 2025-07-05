@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: integrated sensing and communication
+description: integrated sensing and communication
+img: assets/img/4.jpg
+importance: 2
+category: scenario
 ---
 
 Every project has a beautiful feature showcase page.
