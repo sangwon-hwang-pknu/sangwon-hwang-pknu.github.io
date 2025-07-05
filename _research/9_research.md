@@ -1,6 +1,6 @@
 ---
 layout: page
-title: multi-agent deep reinforcement learning
+title: Multi-agent Deep Reinforcement Learning
 description: To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.
 img: assets/img/9.jpg
 importance: 3
