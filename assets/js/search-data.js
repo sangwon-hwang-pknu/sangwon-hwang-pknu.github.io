@@ -64,38 +64,38 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "research-next-generation-communication-network",
-          title: 'next-generation communication network',
-          description: "toward future communication system",
+          title: 'Next-generation Communication Network',
+          description: "next-generation communication system description",
           section: "Research",handler: () => {
               window.location.href = "/research/1_research.html";
             },},{id: "research-artificial-intelligence",
-          title: 'artificial intelligence',
-          description: "intelligent entities",
+          title: 'Artificial Intelligence',
+          description: "artificial intelligence description",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research.html";
             },},{id: "research-deep-learning",
-          title: 'deep learning',
-          description: "deep learning",
+          title: 'Deep Learning',
+          description: "deep learning description",
           section: "Research",handler: () => {
               window.location.href = "/research/3_research.html";
             },},{id: "research-deep-reinforcement-learning",
-          title: 'deep reinforcement learning',
-          description: "deep reinforcement learning",
+          title: 'Deep Reinforcement Learning',
+          description: "deep reinforcement learning description",
           section: "Research",handler: () => {
               window.location.href = "/research/4_research.html";
             },},{id: "research-multi-agent-system",
-          title: 'multi-agent system',
-          description: "multi-agent system",
+          title: 'Multi-agent System',
+          description: "multi-agent system description",
           section: "Research",handler: () => {
               window.location.href = "/research/5_research.html";
             },},{id: "research-mobile-edge-computing",
           title: 'mobile edge computing',
-          description: "mobile edge computing",
+          description: "mobile edge computing description",
           section: "Research",handler: () => {
               window.location.href = "/research/6_research.html";
             },},{id: "research-integrated-sensing-and-communication",
           title: 'integrated sensing and communication',
-          description: "integrated sensing and communication",
+          description: "integrated sensing and communication description",
           section: "Research",handler: () => {
               window.location.href = "/research/7_research.html";
             },},{id: "research-single-agent-deep-reinforcement-learning",
