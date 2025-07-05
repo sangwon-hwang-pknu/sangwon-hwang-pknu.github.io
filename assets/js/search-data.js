@@ -104,7 +104,7 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/8_research.html";
             },},{id: "research-multi-agent-deep-reinforcement-learning",
-          title: 'multi-agent deep reinforcement learning',
+          title: 'Multi-agent Deep Reinforcement Learning',
           description: "To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.",
           section: "Research",handler: () => {
               window.location.href = "/research/9_research.html";
