@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "A growing collection of your cool projects.",
+          description: "Direction and category of our research area",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -37,14 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "members-sangwon-hwang",
+        },{id: "members-seunghyeon-shin",
+          title: 'Seunghyeon Shin',
+          description: "B.S. Electrical Engineeringsmgeem@korea.ac.krAI and Intelligent Communication Lab, Korea University",
+          section: "Members",handler: () => {
+              window.location.href = "/members/sangmin-kim.html";
+            },},{id: "members-sangwon-hwang",
           title: 'Sangwon Hwang',
-          description: "Ph.D.s.won.hwang@pknu.ac.krDivision of Computer and AI Engineering, Pukyong National University",
+          description: "Ph.D. Electrical and Computing Engineerings.won.hwang@pknu.ac.krDivision of Computer and AI Engineering, Pukyong National University",
           section: "Members",handler: () => {
               window.location.href = "/members/sangwon-hwang.html";
             },},{id: "members-seunghyeon-shin",
           title: 'Seunghyeon Shin',
-          description: "M.S.shin.sh@hyundai.comResearch Engineer, Electronic Network Validation Team, Hyundai Motor Company",
+          description: "M.S. Electrical and Computing Engineeringshin.sh@hyundai.comResearch Engineer, Electronic Network Validation Team, Hyundai Motor Company",
           section: "Members",handler: () => {
               window.location.href = "/members/seunghyeon-shin.html";
             },},{id: "news-a-simple-inline-announcement",
@@ -58,21 +63,51 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "research-research-1",
-          title: 'research 1',
-          description: "with background image",
+          section: "News",},{id: "research-next-generation-communication-network",
+          title: 'next-generation communication network',
+          description: "toward future communication system",
           section: "Research",handler: () => {
               window.location.href = "/research/1_research.html";
-            },},{id: "research-research-2",
-          title: 'research 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "research-artificial-intelligence",
+          title: 'artificial intelligence',
+          description: "intelligent entities",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research.html";
-            },},{id: "research-research-3-with-very-long-name",
-          title: 'research 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "research-deep-learning",
+          title: 'deep learning',
+          description: "deep learning",
           section: "Research",handler: () => {
               window.location.href = "/research/3_research.html";
+            },},{id: "research-deep-reinforcement-learning",
+          title: 'deep reinforcement learning',
+          description: "deep reinforcement learning",
+          section: "Research",handler: () => {
+              window.location.href = "/research/4_research.html";
+            },},{id: "research-multi-agent-system",
+          title: 'multi-agent system',
+          description: "multi-agent system",
+          section: "Research",handler: () => {
+              window.location.href = "/research/5_research.html";
+            },},{id: "research-mobile-edge-computing",
+          title: 'mobile edge computing',
+          description: "mobile edge computing",
+          section: "Research",handler: () => {
+              window.location.href = "/research/6_research.html";
+            },},{id: "research-integrated-sensing-and-communication",
+          title: 'integrated sensing and communication',
+          description: "integrated sensing and communication",
+          section: "Research",handler: () => {
+              window.location.href = "/research/7_research.html";
+            },},{id: "research-single-agent-deep-reinforcement-learning",
+          title: 'single-agent deep reinforcement learning',
+          description: "To optimize key factors of communication systems in centralized manner, we propose single-agent deep reinforcement learning framework.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/8_research.html";
+            },},{id: "research-multi-agent-deep-reinforcement-learning",
+          title: 'multi-agent deep reinforcement learning',
+          description: "To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/9_research.html";
             },},{
         id: 'social-email',
         title: 'email',
