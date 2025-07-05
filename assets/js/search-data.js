@@ -39,31 +39,31 @@ ninja.data = [{
           },
         },{id: "members-seunghyeon-shin",
           title: 'Seunghyeon Shin',
-          description: "B.S. Electrical Engineeringsmgeem@korea.ac.krAI and Intelligent Communication Lab, Korea University",
+          description: "Ph.D. Candidate, AI and Intelligent Communication Lab, Korea UniversityB.S. Electrical Engineeringsmgeem@korea.ac.kr",
           section: "Members",handler: () => {
               window.location.href = "/members/sangmin-kim.html";
             },},{id: "members-sangwon-hwang",
           title: 'Sangwon Hwang',
-          description: "Ph.D. Electrical and Computing Engineerings.won.hwang@pknu.ac.krDivision of Computer and AI Engineering, Pukyong National University",
+          description: "Assistant Professor, Division of Computer and AI Engineering, Pukyong National UniversityPh.D. Electrical and Computing Engineerings.won.hwang@pknu.ac.kr",
           section: "Members",handler: () => {
               window.location.href = "/members/sangwon-hwang.html";
             },},{id: "members-seunghyeon-shin",
           title: 'Seunghyeon Shin',
-          description: "M.S. Electrical and Computing Engineeringshin.sh@hyundai.comResearch Engineer, Electronic Network Validation Team, Hyundai Motor Company",
+          description: "Research Engineer, Electronic Network Validation Team, Hyundai Motor CompanyM.S. Electrical and Computing Engineeringshin.sh@hyundai.com",
           section: "Members",handler: () => {
               window.location.href = "/members/seunghyeon-shin.html";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "research-next-generation-communication-network",
+            },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "next-generation communication system description",
           section: "Research",handler: () => {
@@ -104,7 +104,7 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/8_research.html";
             },},{id: "research-multi-agent-deep-reinforcement-learning",
-          title: 'Multi-agent Deep Reinforcement Learning',
+          title: 'Multi-Agent Deep Reinforcement Learning',
           description: "To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.",
           section: "Research",handler: () => {
               window.location.href = "/research/9_research.html";
