@@ -1,6 +1,6 @@
 ---
 layout: page
-title: single-agent deep reinforcement learning
+title: Single-agent Deep rReinforcement Learning
 description: To optimize key factors of communication systems in centralized manner, we propose single-agent deep reinforcement learning framework.
 img: assets/img/8.jpg
 importance: 4

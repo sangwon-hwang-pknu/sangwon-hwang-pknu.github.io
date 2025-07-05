@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mobile edge computing
+title: Mobile Edge Computing
 description: mobile edge computing description
 img: assets/img/6.jpg
 importance: 1

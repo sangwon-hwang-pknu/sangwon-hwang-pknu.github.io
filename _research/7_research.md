@@ -1,6 +1,6 @@
 ---
 layout: page
-title: integrated sensing and communication
+title: Integrated Sensing and Communication
 description: integrated sensing and communication description
 img: assets/img/7.jpg
 importance: 2

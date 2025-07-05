@@ -2,7 +2,6 @@
 layout: page
 title: research
 permalink: /research/
-description: Direction and category of our research area
 nav: true
 nav_order: 3
 display_categories: [milestone, scenario, framework]
