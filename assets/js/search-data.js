@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "Direction and category of our research area",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -89,17 +89,17 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/5_research.html";
             },},{id: "research-mobile-edge-computing",
-          title: 'mobile edge computing',
+          title: 'Mobile Edge Computing',
           description: "mobile edge computing description",
           section: "Research",handler: () => {
               window.location.href = "/research/6_research.html";
             },},{id: "research-integrated-sensing-and-communication",
-          title: 'integrated sensing and communication',
+          title: 'Integrated Sensing and Communication',
           description: "integrated sensing and communication description",
           section: "Research",handler: () => {
               window.location.href = "/research/7_research.html";
-            },},{id: "research-single-agent-deep-reinforcement-learning",
-          title: 'single-agent deep reinforcement learning',
+            },},{id: "research-single-agent-deep-rreinforcement-learning",
+          title: 'Single-agent Deep rReinforcement Learning',
           description: "To optimize key factors of communication systems in centralized manner, we propose single-agent deep reinforcement learning framework.",
           section: "Research",handler: () => {
               window.location.href = "/research/8_research.html";
