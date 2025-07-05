@@ -1,6 +1,7 @@
 ---
 layout: page
 title: research
+description: explore detailed research items grouped by category, each shown in a descriptive card format.
 permalink: /research/
 nav: true
 nav_order: 3
