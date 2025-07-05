@@ -84,7 +84,7 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/4_research.html";
             },},{id: "research-multi-agent-system",
-          title: 'Multi-agent System',
+          title: 'Multi-Agent System',
           description: "multi-agent system description",
           section: "Research",handler: () => {
               window.location.href = "/research/5_research.html";
@@ -99,7 +99,7 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/7_research.html";
             },},{id: "research-single-agent-deep-reinforcement-learning",
-          title: 'Single-agent Deep Reinforcement Learning',
+          title: 'Single-Agent Deep Reinforcement Learning',
           description: "To optimize key factors of communication systems in centralized manner, we propose single-agent deep reinforcement learning framework.",
           section: "Research",handler: () => {
               window.location.href = "/research/8_research.html";
