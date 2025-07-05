@@ -1,8 +1,8 @@
 ---
 layout: page
-title: multi-agent system
-description: multi-agent system
-img: assets/img/1.jpg
+title: Multi-agent System
+description: multi-agent system description
+img: assets/img/5.jpg
 importance: 5
 category: milestone
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: integrated sensing and communication
-description: integrated sensing and communication
-img: assets/img/4.jpg
+description: integrated sensing and communication description
+img: assets/img/7.jpg
 importance: 2
 category: scenario
 ---

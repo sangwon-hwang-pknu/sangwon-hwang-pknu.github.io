@@ -1,7 +1,7 @@
 ---
 layout: page
-title: next-generation communication network
-description: toward future communication system
+title: Next-generation Communication Network
+description: next-generation communication system description
 img: assets/img/12.jpg
 importance: 1
 category: milestone

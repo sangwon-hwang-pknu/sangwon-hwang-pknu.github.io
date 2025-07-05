@@ -1,8 +1,8 @@
 ---
 layout: page
-title: deep reinforcement learning
-description: deep reinforcement learning
-img: assets/img/7.jpg
+title: Deep Reinforcement Learning
+description: deep reinforcement learning description
+img: assets/img/4.jpg
 importance: 4
 category: milestone
 ---

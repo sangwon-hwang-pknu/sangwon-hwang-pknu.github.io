@@ -1,8 +1,8 @@
 ---
 layout: page
 title: mobile edge computing
-description: mobile edge computing
-img: assets/img/4.jpg
+description: mobile edge computing description
+img: assets/img/6.jpg
 importance: 1
 category: scenario
 related_publications: true

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: deep learning
-description: deep learning
-img: assets/img/7.jpg
+title: Deep Learning
+description: deep learning description
+img: assets/img/3.jpg
 importance: 3
 category: milestone
 ---

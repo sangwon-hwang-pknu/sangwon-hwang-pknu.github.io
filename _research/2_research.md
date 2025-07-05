@@ -1,8 +1,8 @@
 ---
 layout: page
-title: artificial intelligence
-description: intelligent entities
-img: assets/img/3.jpg
+title: Artificial Intelligence
+description: artificial intelligence description
+img: assets/img/2.jpg
 importance: 2
 category: milestone
 giscus_comments: true
