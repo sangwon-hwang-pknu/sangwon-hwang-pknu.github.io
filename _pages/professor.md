@@ -26,20 +26,21 @@ Sangwon Hwang (s.won.hwang@pknu.ac.kr) received the B.S. and Ph.D. degrees from 
 ## Experience
 
 - 2025\. 03. ~ Present
-  - Department of Computer and Artificial Intelligence Engineering, Pukyong National University
+  - <a href="https://ce.pknu.ac.kr/ce/1">Department of Computer and Artificial Intelligence Engineering,</a> <a href="https://www.pknu.ac.kr/eng">Pukyong National University</a>
   - Assistant Professor
 - 2023\. 12. ~ 2025. 02.
-  - Connectivity R&D Group, Mobile Experience Business, Samsung Electronics
+  - <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Connectivity R&D Group, Mobile Experience Business,</a> <a href="https://www.samsung.com/us/">Samsung Electronics</a>
   - Senior Research
 - 2023\. 02. ~ 2023. 11.
-  - Augmented Cognition Meta-Communications Research Center, ERC, Korea University
+  - <a href="http://wireless.korea.ac.kr/">Augmented Cognition Meta-Communications Research Center, ERC,</a> <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>
   - Postdoctoral fellow
+  - Supervisor : <a href="https://scholar.google.com/citations?user=y0ve6xwAAAAJ">Inkyu Lee</a>
 - 2021\. 12. ~ 2023. 01.
-  - Central Technology Appraisal Institutes, Korea Technology Finance Corporation (KOTEC)
+  - <a href="https://www.kibo.or.kr/english/work/work020101.do">Central Technology Appraisal Institutes, Korea Technology Finance Corporation (KOTEC)</a>
   - Assistant Manager
 
 - 2019\. 09. ~ 2019. 11.
-  - Department of Electrical and Computer Engineering, Queen's University
+  - <a href="https://smithengineering.queensu.ca/ece/">Department of Electrical and Computer Engineering, </a><a href="https://www.queensu.ca/">Queen's University</a>
   - Visiting Student
   - Advisor : <a href="https://scholar.google.com/citations?user=iyufC8kAAAAJ">IL-min Kim</a>
 
