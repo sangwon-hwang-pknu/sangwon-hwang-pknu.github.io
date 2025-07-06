@@ -52,14 +52,13 @@ ninja.data = [{
           description: "Research Engineer, Electronic Network Validation Team, Hyundai Motor CompanyM.S. Electrical and Computing Engineeringshin.sh@hyundai.com",
           section: "Members",handler: () => {
               window.location.href = "/members/seunghyeon-shin.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-sangwon-hwang-appointed-as-assistant-professor-at-pknu",
+          title: 'Sangwon Hwang Appointed as Assistant Professor at PKNU',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1.html";
+            },},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
