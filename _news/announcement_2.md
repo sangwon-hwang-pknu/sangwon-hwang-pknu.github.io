@@ -1,5 +1,6 @@
 ---
 layout: post
+title: AIDAN Website Launched
 date: 2025-07-07 09:00:00+0900
 inline: false
 related_posts: false
