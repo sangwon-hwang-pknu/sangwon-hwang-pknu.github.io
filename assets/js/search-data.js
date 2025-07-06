@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1.html";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
+            },},{id: "news-aidan-website-launched",
+          title: 'AIDAN Website Launched',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
