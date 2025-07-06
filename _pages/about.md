@@ -16,27 +16,29 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-**AIDAN** (Artificial Intelligence for Distributed Autonomous Networks) Lab focuses on designing intelligent and autonomous systems that integrate **artificial intelligence** and **communication networks**.
+**AIDAN** (Artificial Intelligence for Distributed Autonomous Networks) Lab is dedicated to advancing intelligent and autonomous communication networks through the seamless integration of **artificial intelligence** and **communication technologies**.
 
-We conduct research on a broad range of AI technologies, including:
+Our research focuses on a broad spectrum of AI technologies, including:
 
 - Supervised & unsupervised learning
 - Deep reinforcement learning
+- AI for multi-agent systems
 - Generative AI models
 - Language models and representation learning
 
-On the application side, we aim to enable scalable, robust, and distributed intelligence in next-generation communication networks, such as:
+These AI technologies are applied to develop adaptive and decentralized intelligence for next-generation communication networks, such as:
 
-- Multi-agent systems
-- Mobility-driven communication networks (e.g., UAVs, LEO satellites)
-- Edge computing systems
-- Cooperative IoT and networked systems
+- Mobility-driven communication networks (e.g., UAVs, UAMs, LEO satellites)
+- Edge computing-powered IoT networks
+- Integrated sensing and communication systems
+- Digital twin-enabled communication networks
 
-We aim to enable intelligent communication in dynamic, decentralized environments involving autonomous agents and wireless networks.
+By embedding AI into these dynamic and distributed environments, we aim to realize communication systems capable of autonomous operation, context-aware decision-making, and seamless coordination across distributed agents and networked systems.
 
-📌 We are part of the **Division of Computer and Artificial Intelligence Engineering**, College of Information Convergence, Pukyong National University (PKNU), Busan, South Korea.
 
-### 📍 Location
+---
+### 📌 Location
+ We are part of the **Division of Computer and Artificial Intelligence Engineering**, College of Information Convergence, Pukyong National University (PKNU), Busan, South Korea.
 
 - **Professor's Office**: Room 1315, Woongbi Hall (A12)  
 - **Lab Space**: Rooms 1316 & 1321, Woongbi Hall (A12)  
@@ -46,5 +48,8 @@ We aim to enable intelligent communication in dynamic, decentralized environment
 
 ### 🔍 [Openings](openings)
 
-We are always looking for passionate undergraduate interns, graduate students, and collaborators who are excited about artificial intelligence and communication networks.  
+We are always looking for passionate undergraduate interns, graduate students, and collaborators who are excited about artificial intelligence and communication networks.
+
 Please check our [openings page](openings) for more information.
+
+---

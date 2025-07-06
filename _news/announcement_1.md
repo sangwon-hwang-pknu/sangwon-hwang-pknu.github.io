@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sangwon Hwang Appointed as Assistant Professor at PKNU
-date: 2025-03-02 13:00:00+0900
+date: 2025-03-03 13:00:00+0900
 inline: false
 related_posts: false
 ---
