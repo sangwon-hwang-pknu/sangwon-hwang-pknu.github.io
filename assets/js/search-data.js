@@ -37,8 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "members-seunghyeon-shin",
-          title: 'Seunghyeon Shin',
+        },{id: "members-mintae-kim",
+          title: 'Mintae Kim',
+          description: "Senior Researcher, System LSI Business, Samsung ElectronicsPh.D. Electrical and Computing Engineeringwkd2749@korea.ac.kr",
+          section: "Members",handler: () => {
+              window.location.href = "/members/mintae-kim.html";
+            },},{id: "members-sangmin-kim",
+          title: 'Sangmin Kim',
           description: "Ph.D. Candidate, AI and Intelligent Communication Lab, Korea UniversityB.S. Electrical Engineeringsmgeem@korea.ac.kr",
           section: "Members",handler: () => {
               window.location.href = "/members/sangmin-kim.html";
