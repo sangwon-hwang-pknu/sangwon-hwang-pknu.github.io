@@ -67,6 +67,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
+            },},{id: "news-aidan-website-launched",
+          title: 'AIDAN Website Launched',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "next-generation communication system description",
