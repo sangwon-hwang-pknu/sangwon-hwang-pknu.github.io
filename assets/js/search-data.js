@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "members-mintae-kim",
+        },{id: "members-byungju-lim",
+          title: 'Byungju Lim',
+          description: "Assistant Professor, Department of Electronic EngineeringPh.D. Electrical and Computing Engineeringlimbj@pknu.ac.kr",
+          section: "Members",handler: () => {
+              window.location.href = "/members/byungju-lim.html";
+            },},{id: "members-mintae-kim",
           title: 'Mintae Kim',
           description: "Senior Researcher, System LSI Business, Samsung ElectronicsPh.D. Electrical and Computing Engineeringwkd2749@korea.ac.kr",
           section: "Members",handler: () => {
