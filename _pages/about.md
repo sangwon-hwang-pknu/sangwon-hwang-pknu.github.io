@@ -3,7 +3,7 @@ layout: about
 permalink: /
 titleImage: aidan_logo_1.png
 title: home
-subtitle: Artificial Intelligence for Distributed Autonomous Networks Lab
+subtitle: 
 
 announcements:
   enabled: true # includes a list of news items

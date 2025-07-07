@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Hoon Lee
-description:
-    Associate Professor, Department of Electrical Engineering & AI Graduate School, Ulsan National Institute of Science and Technology (UNIST)<br/>Ph.D. Electrical and Computing Engineering<br/>hoonlee@unist.ac.kr
+degree: Ph.D. Electrical and Computing Engineering
+affiliation: Associate Professor, Department of Electrical Engineering & AI Graduate School, Ulsan National Institute of Science and Technology (UNIST)
+email: hoonlee@unist.ac.kr
 img: assets/img/members/hoon-lee.jpg
 importance: 2
 category: co-researcher

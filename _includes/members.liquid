@@ -17,7 +17,15 @@
       {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ member.title }}</h2>
-        <p class="card-text">{{ member.description }}</p>
+        {% if member.affiliation %}
+          <p class="card-text">{{ member.affiliation }}</p>
+        {% endif %}
+        {% if member.degree %}
+          <p class="card-text">{{ member.degree }}</p>
+        {% endif %}
+        {% if member.email %}
+          <p class="card-text">{{ member.email }}</p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if member.github %}
             <div class="github-icon">

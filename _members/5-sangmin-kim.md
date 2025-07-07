@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Sangmin Kim
-description: >
-    <br/>Ph.D. Candidate, AI and Intelligent Communication Lab, Korea University<br/>B.S. Electrical Engineering<br/>smgeem@korea.ac.kr
+degree: B.S. Electrical Engineering
+affiliation: Ph.D. Candidate, AI and Intelligent Communication Lab, Korea University
+email: smgeem@korea.ac.kr
 img: assets/img/members/sangmin-kim.jpg
 importance: 5
 category: co-researcher
