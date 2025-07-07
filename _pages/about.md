@@ -46,10 +46,10 @@ By embedding AI into these dynamic and distributed environments, we aim to reali
 
 ---
 
-### 🔍 [Openings](openings)
+### 🔍 [Openings](/openings)
 
 We are always looking for passionate undergraduate interns, graduate students, and collaborators who are excited about artificial intelligence and communication networks.
 
-Please check our [openings page](openings) for more information.
+Please check our [openings page](/openings) for more information.
 
 ---
