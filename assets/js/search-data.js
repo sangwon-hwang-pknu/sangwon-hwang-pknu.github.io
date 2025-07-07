@@ -39,47 +39,47 @@ ninja.data = [{
           },
         },{id: "members-byungju-lim",
           title: 'Byungju Lim',
-          description: "Assistant Professor, Department of Electronic Engineering, Pukyong National University (PKNU)Ph.D. Electrical and Computing Engineeringlimbj@pknu.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/1-byungju-lim.html";
             },},{id: "members-sangwon-hwang",
           title: 'Sangwon Hwang',
-          description: "Assistant Professor, Division of Computer and AI Engineering, Pukyong National UniversityPh.D. Electrical and Computing Engineerings.won.hwang@pknu.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/1-sangwon-hwang.html";
             },},{id: "members-hoon-lee",
           title: 'Hoon Lee',
-          description: "Associate Professor, Department of Electrical Engineering &amp; AI Graduate School, Ulsan National Institute of Science and Technology (UNIST)Ph.D. Electrical and Computing Engineeringhoonlee@unist.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/2-hoon-lee.html";
             },},{id: "members-jihwan-moon",
           title: 'Jihwan Moon',
-          description: "Assistant professor, Department of Mobile Convergence Engineering, Hanbat National UniversityPh.D. Electrical and Computing Engineeringanschino@staff.hanbat.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/3-jihwan-moon.html";
             },},{id: "members-seunghyeon-shin",
           title: 'Seunghyeon Shin',
-          description: "Research Engineer, Electronic Network Validation Team, Hyundai Motor CompanyM.S. Electrical and Computing EngineeringShin.sh@hyundai.com",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/4-seunghyeon-shin.html";
             },},{id: "members-sangmin-kim",
           title: 'Sangmin Kim',
-          description: "Ph.D. Candidate, AI and Intelligent Communication Lab, Korea UniversityB.S. Electrical Engineeringsmgeem@korea.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/5-sangmin-kim.html";
             },},{id: "members-mintae-kim",
           title: 'Mintae Kim',
-          description: "Senior Researcher, System LSI Business, Samsung ElectronicsPh.D. Electrical and Computing Engineeringwkd2749@korea.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/6-mintae-kim.html";
             },},{id: "members-jaehoon-jung",
           title: 'Jaehoon jung',
-          description: "Research Engineer, CTO C&amp;M Standard Research Lab , LG Electronics M.S. Electrical and Computing Engineeringjaehoon24.jung@lge.com",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/7-jaehoon-jung.html";
             },},{id: "members-zhilin-fu",
           title: 'Zhilin Fu',
-          description: "Postdoc Researcher, AI and Intelligent Communication Lab, Korea UniversityPh.D. Electrical and Computing Engineeringcelynnfu@korea.ac.kr",
+          description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/8-zhilin-fu.html";
             },},{id: "news-sangwon-hwang-appointed-as-assistant-professor-at-pknu",
