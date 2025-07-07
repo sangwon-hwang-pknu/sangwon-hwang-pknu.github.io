@@ -47,8 +47,8 @@ ninja.data = [{
           description: "Assistant Professor, Division of Computer and AI Engineering, Pukyong National UniversityPh.D. Electrical and Computing Engineerings.won.hwang@pknu.ac.kr",
           section: "Members",handler: () => {
               window.location.href = "/members/1-sangwon-hwang.html";
-            },},{id: "members-hoom-lee",
-          title: 'Hoom Lee',
+            },},{id: "members-hoon-lee",
+          title: 'Hoon Lee',
           description: "Associate Professor, Department of Electrical Engineering &amp; AI Graduate School, Ulsan National Institute of Science and Technology (UNIST)Ph.D. Electrical and Computing Engineeringhoonlee@unist.ac.kr",
           section: "Members",handler: () => {
               window.location.href = "/members/2-hoon-lee.html";
@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/members/3-jihwan-moon.html";
             },},{id: "members-seunghyeon-shin",
           title: 'Seunghyeon Shin',
-          description: "Research Engineer, Electronic Network Validation Team, Hyundai Motor CompanyM.S. Electrical and Computing Engineeringshin.sh@hyundai.com",
+          description: "Research Engineer, Electronic Network Validation Team, Hyundai Motor CompanyM.S. Electrical and Computing EngineeringShin.sh@hyundai.com",
           section: "Members",handler: () => {
               window.location.href = "/members/4-seunghyeon-shin.html";
             },},{id: "members-sangmin-kim",
