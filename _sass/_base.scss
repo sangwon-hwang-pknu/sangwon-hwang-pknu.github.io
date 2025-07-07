@@ -1484,6 +1484,14 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
 }
 
+.about-figure {
+  background-color: var(--about-figure);
+}
+
+p.card-text {
+  margin-bottom: 0.4rem;
+}
+
 figure.cover {
   display: inline-block;
   text-align: center;
