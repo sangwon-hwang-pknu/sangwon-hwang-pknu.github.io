@@ -6,5 +6,4 @@ description:
 img: assets/img/members/byungju-lim.jpg
 importance: 4
 category: co-researcher
-redirect: https://sites.google.com/view/byungjulim/member/professor?authuser=0
 ---
