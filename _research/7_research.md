@@ -23,6 +23,15 @@ This innovative paradigm seeks to unify radar-based sensing and wireless communi
 Such integration yields substantial benefits—enhanced spectrum efficiency, hardware reuse, energy conservation—and unlocks a broad spectrum of applications, including autonomous driving, disaster response, smart manufacturing, digital twins, and the broader low-altitude economy. 
 Recognized by international standards organizations such as the ITU as a core element of 6G, ISAC is poised to redefine the functional scope of wireless networks.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/figure7_2.jpg" title="project1_figure1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    ISAC System Design <a href="https://wireless.engineering.nyu.edu/integrated-sensing-and-communication-isac/">NYU Wireless</a> <a href="https://ieeexplore.ieee.org/document/10018908">IEEE</a>
+</div>
+
 For researchers and developers, the technical foundation of ISAC offers a rich domain for innovation. A critical area involves the design of novel waveforms that jointly optimize sensing and communication performance, categorized into communication-centric, sensing-centric, and jointly optimized approaches. Signal processing techniques are evolving to address the complex demands of simultaneous data transfer and environmental interpretation, incorporating advanced tools for target detection, interference mitigation, and multi-parameter estimation. 
 In parallel, artificial intelligence and machine learning are playing an increasingly vital role, not only in improving estimation accuracy but also in dynamically adapting system behavior to shifting network and sensing conditions. 
 Furthermore, Reconfigurable Intelligent Surfaces (RIS) add a new dimension of capability by dynamically shaping the radio environment, enabling robust performance in both line-of-sight and obstructed scenarios.
