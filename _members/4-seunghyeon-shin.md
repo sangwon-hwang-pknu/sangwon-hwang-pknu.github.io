@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Seunghyeon Shin
-description: >
-    Research Engineer, Electronic Network Validation Team, Hyundai Motor Company<br/>M.S. Electrical and Computing Engineering<br/>Shin.sh@hyundai.com<br/>
+degree: M.S. Electrical and Computing Engineering
+affiliation: Research Engineer, Electronic Network Validation Team, Hyundai Motor Company
+email: Shin.sh@hyundai.com
 img: assets/img/members/seunghyeon-shin.jpg
 importance: 4
 category: co-researcher
