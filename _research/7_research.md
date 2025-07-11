@@ -15,7 +15,7 @@ This section is about broad description of Integrated Sensing and Communication 
     </div>
 </div>
 <div class="caption">
-    This figure includes signal, communication technology, and communication scenario.
+    ISAC technology for future wireless networks. [Researchgate](https://www.researchgate.net/publication/359324502_Integrated_Sensing_and_Communications_Towards_Dual-functional_Wireless_Networks_for_6G_and_Beyond) [IEEE](https://ieeexplore.ieee.org/document/9737357)
 </div>
 
 Integrated Sensing and Communication (ISAC) is rapidly emerging as a cornerstone of next-generation wireless technologies, particularly within the evolving vision of 6G networks. 
