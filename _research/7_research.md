@@ -15,7 +15,7 @@ This section is about broad description of Integrated Sensing and Communication 
     </div>
 </div>
 <div class="caption">
-    ISAC technology for future wireless networks. [Researchgate](https://www.researchgate.net/publication/359324502_Integrated_Sensing_and_Communications_Towards_Dual-functional_Wireless_Networks_for_6G_and_Beyond) [IEEE](https://ieeexplore.ieee.org/document/9737357)
+    ISAC technology for future wireless networks <a href="https://www.researchgate.net/publication/359324502_Integrated_Sensing_and_Communications_Towards_Dual-functional_Wireless_Networks_for_6G_and_Beyond">Researchgate</a> <a href="https://ieeexplore.ieee.org/document/9737357">IEEE</a>
 </div>
 
 Integrated Sensing and Communication (ISAC) is rapidly emerging as a cornerstone of next-generation wireless technologies, particularly within the evolving vision of 6G networks. 
@@ -29,7 +29,7 @@ Recognized by international standards organizations such as the ITU as a core el
     </div>
 </div>
 <div class="caption">
-    ISAC System Design <a href="https://wireless.engineering.nyu.edu/integrated-sensing-and-communication-isac/">NYU Wireless</a> <a href="https://ieeexplore.ieee.org/document/10018908">IEEE</a>
+    ISAC System Design <a href="https://wireless.engineering.nyu.edu/integrated-sensing-and-communication-isac/">NYU Wireless</a> / <a href="https://ieeexplore.ieee.org/document/10018908">IEEE</a>
 </div>
 
 For researchers and developers, the technical foundation of ISAC offers a rich domain for innovation. A critical area involves the design of novel waveforms that jointly optimize sensing and communication performance, categorized into communication-centric, sensing-centric, and jointly optimized approaches. Signal processing techniques are evolving to address the complex demands of simultaneous data transfer and environmental interpretation, incorporating advanced tools for target detection, interference mitigation, and multi-parameter estimation. 
@@ -38,9 +38,9 @@ Furthermore, Reconfigurable Intelligent Surfaces (RIS) add a new dimension of ca
 
 From a systems and architectural perspective, ISAC research is exploring new sensing topologies, dynamic switching frameworks, and efficient multi-domain resource allocation strategies. 
 These developments address key challenges in balancing the performance requirements of sensing and communication, particularly under constrained spectrum, hardware, and energy resources. 
-Yet, despite significant advances, many open questions remain—how to optimize the sensing-communication trade-off, ensure data privacy and security, and create unified evaluation metrics for system benchmarking. Active efforts from global standardization bodies (e.g., 3GPP, ETSI), industry leaders, and academic research institutions are driving progress. 
+Yet, despite significant advances, many open questions remain—how to optimize the sensing-communication trade-off, ensure data privacy and security, and create unified evaluation metrics for system benchmarking. 
+Active efforts from global standardization bodies (e.g., 3GPP, ETSI), industry leaders, and academic research institutions are driving progress. 
 For authors, ISAC represents not only a timely and impactful research opportunity but a foundational shift in how wireless systems will operate, interact with their environments, and support the next wave of intelligent applications.
-
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
