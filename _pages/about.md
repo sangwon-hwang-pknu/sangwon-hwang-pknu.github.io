@@ -3,7 +3,7 @@ layout: about
 permalink: /
 titleImage: aidan_logo_1.png
 title: home
-subtitle: 
+subtitle: AIDAN
 
 announcements:
   enabled: true # includes a list of news items
