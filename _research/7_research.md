@@ -7,15 +7,13 @@ importance: 2
 category: scenario
 ---
 
-This section is about broad description of Integrated Sensing and Communication (ISAC) systems.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/figure7_1.jpg" title="project1_figure1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    ISAC technology for future wireless networks <a href="https://www.researchgate.net/publication/359324502_Integrated_Sensing_and_Communications_Towards_Dual-functional_Wireless_Networks_for_6G_and_Beyond">Researchgate</a> <a href="https://ieeexplore.ieee.org/document/9737357">IEEE</a>
+    ISAC technology for future wireless networks (<a href="https://www.researchgate.net/publication/359324502_Integrated_Sensing_and_Communications_Towards_Dual-functional_Wireless_Networks_for_6G_and_Beyond">Researchgate</a> / <a href="https://ieeexplore.ieee.org/document/9737357">IEEE</a>)
 </div>
 
 Integrated Sensing and Communication (ISAC) is rapidly emerging as a cornerstone of next-generation wireless technologies, particularly within the evolving vision of 6G networks. 
@@ -29,7 +27,7 @@ Recognized by international standards organizations such as the ITU as a core el
     </div>
 </div>
 <div class="caption">
-    ISAC System Design <a href="https://wireless.engineering.nyu.edu/integrated-sensing-and-communication-isac/">NYU Wireless</a> / <a href="https://ieeexplore.ieee.org/document/10018908">IEEE</a>
+    ISAC system design (<a href="https://wireless.engineering.nyu.edu/integrated-sensing-and-communication-isac/">NYU Wireless</a> / <a href="https://ieeexplore.ieee.org/document/10018908">IEEE</a>)
 </div>
 
 For researchers and developers, the technical foundation of ISAC offers a rich domain for innovation. A critical area involves the design of novel waveforms that jointly optimize sensing and communication performance, categorized into communication-centric, sensing-centric, and jointly optimized approaches. Signal processing techniques are evolving to address the complex demands of simultaneous data transfer and environmental interpretation, incorporating advanced tools for target detection, interference mitigation, and multi-parameter estimation. 
