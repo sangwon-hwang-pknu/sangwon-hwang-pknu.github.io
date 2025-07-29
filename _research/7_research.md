@@ -2,7 +2,7 @@
 layout: page
 title: Integrated Sensing and Communication
 description: integrated sensing and communication description
-img: assets/img/projects/figure7_0.jpg
+img: assets/img/projects/figure7_0_1.jpg
 importance: 2
 category: scenario
 ---
@@ -49,7 +49,7 @@ Yet, despite significant advances, many open questions remain—how to optimize 
 Active efforts from global standardization bodies (e.g., 3GPP, ETSI), industry leaders, and academic research institutions are driving progress. 
 For authors, ISAC represents not only a timely and impactful research opportunity but a foundational shift in how wireless systems will operate, interact with their environments, and support the next wave of intelligent applications.
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -119,4 +119,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
