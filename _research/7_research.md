@@ -2,7 +2,7 @@
 layout: page
 title: Integrated Sensing and Communication
 description: integrated sensing and communication description
-img: assets/img/projects/figure7_0_1.jpg
+img: assets/img/projects/ISAC/figure7_0_2.jpg
 importance: 2
 category: scenario
 ---
