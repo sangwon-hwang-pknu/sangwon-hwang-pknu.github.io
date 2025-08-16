@@ -82,11 +82,6 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/8-zhilin-fu.html";
-            },},{id: "members-sangmin-kim",
-          title: 'Sangmin Kim',
-          description: "B.S. Electrical Engineeringsmgeem@korea.ac.krAI and Intelligent Communication Lab, Korea University",
-          section: "Members",handler: () => {
-              window.location.href = "/members/sangmin-kim.html";
             },},{id: "news-sangwon-hwang-appointed-as-assistant-professor-at-pknu",
           title: 'Sangwon Hwang Appointed as Assistant Professor at PKNU',
           description: "",
