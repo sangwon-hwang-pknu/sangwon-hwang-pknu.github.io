@@ -2,14 +2,14 @@
 layout: page
 title: Integrated Sensing and Communication
 description: integrated sensing and communication description
-img: assets/img/projects/ISAC/figure7_0_2.jpg
+img: assets/img/projects/ISAC/figure7_0_2.png
 importance: 2
 category: scenario
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_3.jpg" title="project7_ISAC_figure3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_3.png" title="project7_ISAC_figure3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ Recognized by international standards organizations such as the ITU as a core el
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_1.jpg" title="project7_ISAC_figure1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_1.png" title="project7_ISAC_figure1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Furthermore, Reconfigurable Intelligent Surfaces (RIS) add a new dimension of ca
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_2.jpg" title="project7_ISAC_figure2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ISAC/figure7_2.png" title="project7_ISAC_figure2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
