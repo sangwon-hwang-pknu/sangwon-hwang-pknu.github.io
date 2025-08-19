@@ -2,7 +2,7 @@
 layout: page
 title: Mobile Edge Computing
 description: mobile edge computing description
-img: assets/img/6.jpg
+img: assets/img/projects/MEC/figure6_0.png
 importance: 1
 category: scenario
 related_publications: true
