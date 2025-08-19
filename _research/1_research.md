@@ -2,7 +2,7 @@
 layout: page
 title: Next-generation Communication Network
 description: next-generation communication system description
-img: assets/img/12.jpg
+img: assets/img/projects/figure1_0.png
 importance: 1
 category: milestone
 related_publications: true
