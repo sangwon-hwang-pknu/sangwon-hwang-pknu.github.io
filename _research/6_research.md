@@ -15,6 +15,7 @@ category: scenario
 <div class="caption">
     MEC system (<a href="https://nybsys.com/mobile-edge-computing-mec/">NYBSYS</a>)
 </div>
+
 Mobile Edge Computing (MEC) is a transformative paradigm in the evolution of wireless networks, particularly as we transition towards 6G. 
 By bringing computation and storage capabilities closer to the end user, MEC significantly reduces latency and enhances the performance of applications that require real-time processing. 
 This is especially crucial for emerging use cases such as autonomous vehicles, augmented reality, and smart cities, where immediate data processing is essential.
