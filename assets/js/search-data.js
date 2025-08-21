@@ -119,12 +119,12 @@ ninja.data = [{
               window.location.href = "/research/5_research.html";
             },},{id: "research-mobile-edge-computing",
           title: 'Mobile Edge Computing',
-          description: "mobile edge computing description",
+          description: "Mobile Edge Computing effectively brings computation and storage capabilities closer to the end user, which significantly reduces latency and enhances performance.",
           section: "Research",handler: () => {
               window.location.href = "/research/6_research.html";
             },},{id: "research-integrated-sensing-and-communication",
           title: 'Integrated Sensing and Communication',
-          description: "integrated sensing and communication description",
+          description: "Integrated Sensing and Communication is a key technology for 6G networks, which merges sensing and communication functionalities in a single system.",
           section: "Research",handler: () => {
               window.location.href = "/research/7_research.html";
             },},{id: "research-single-agent-deep-reinforcement-learning",
