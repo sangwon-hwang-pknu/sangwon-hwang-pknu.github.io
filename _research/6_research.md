@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mobile Edge Computing
-description: mobile edge computing description
+description: Mobile Edge Computing effectively brings computation and storage capabilities closer to the end user, which significantly reduces latency and enhances performance.
 img: assets/img/projects/MEC/figure6_0.png
 importance: 1
 category: scenario

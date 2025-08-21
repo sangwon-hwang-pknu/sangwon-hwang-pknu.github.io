@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Integrated Sensing and Communication
-description: integrated sensing and communication description
+description: Integrated Sensing and Communication is a key technology for 6G networks, which merges sensing and communication functionalities in a single system.
 img: assets/img/projects/ISAC/figure7_0_2.png
 importance: 2
 category: scenario
