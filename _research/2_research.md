@@ -2,7 +2,7 @@
 layout: page
 title: Artificial Intelligence
 description: artificial intelligence description
-img: assets/img/12.jpg
+img: assets/img/projects/AI/figure2_0.png
 importance: 2
 category: milestone
 giscus_comments: true
