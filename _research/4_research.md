@@ -2,7 +2,7 @@
 layout: page
 title: Deep Reinforcement Learning
 description: deep reinforcement learning description
-img: assets/img/projects/DRL/figure4_0.png
+img: assets/img/projects/DRL/figure8_0.png
 importance: 4
 category: milestone
 ---
