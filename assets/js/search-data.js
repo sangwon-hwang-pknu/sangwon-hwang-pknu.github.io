@@ -92,6 +92,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
+            },},{id: "research-convex-optimization",
+          title: 'Convex Optimization',
+          description: "Convex optimization is a subfield of optimization focusing on minimizing convex functions over convex sets.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/10_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "next-generation communication system description",
