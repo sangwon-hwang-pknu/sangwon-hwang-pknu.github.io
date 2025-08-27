@@ -97,6 +97,11 @@ ninja.data = [{
           description: "Convex optimization is a subfield of optimization focusing on minimizing convex functions over convex sets.",
           section: "Research",handler: () => {
               window.location.href = "/research/10_research.html";
+            },},{id: "research-satellite-communication",
+          title: 'Satellite Communication',
+          description: "Satellite communication systems are key technologies for global connectivity, enabling data transmission over far distances.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/11_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "next-generation communication system description",
