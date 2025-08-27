@@ -13,7 +13,7 @@ category: milestone
     </div>
 </div>
 <div class="caption">
-    Convex vs Nonconvex optimization (<a href="https://mathworks.com/discovery/convex-optimization.html">MATLAB</a>)
+    Convex vs Nonconvex optimization (<a href="https://mathworks.com/discovery/convex-optimization.html">Mathworks</a>)
 </div>
 
 Convex optimization focuses on minimizing convex functions over convex sets, benefiting from the unique geometric and analytical properties of convexity. 
