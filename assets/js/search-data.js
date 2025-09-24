@@ -147,6 +147,11 @@ ninja.data = [{
           description: "To optimize key factors of communication systems in decentralized manner, we propose multi-agent deep reinforcement learning framework.",
           section: "Research",handler: () => {
               window.location.href = "/research/9_research.html";
+            },},{id: "research-template",
+          title: 'Template',
+          description: "",
+          section: "Research",handler: () => {
+              window.location.href = "/research/template.html";
             },},{
         id: 'social-email',
         title: 'email',
