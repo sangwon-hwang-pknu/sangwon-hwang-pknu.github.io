@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/8-zhilin-fu.html";
+            },},{id: "members-jeongwon-kim",
+          title: 'Jeongwon Kim',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/9-jeongwon-kim.html";
             },},{id: "news-sangwon-hwang-appointed-as-assistant-professor-at-pknu",
           title: 'Sangwon Hwang Appointed as Assistant Professor at PKNU',
           description: "",
