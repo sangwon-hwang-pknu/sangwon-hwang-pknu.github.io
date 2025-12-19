@@ -30,7 +30,7 @@ Sangwon Hwang (s.won.hwang@pknu.ac.kr) received the B.S. and Ph.D. degrees from 
   - Assistant Professor
 - 2023\. 12. ~ 2025. 02.
   - <a href="https://www.samsung-dxrecruit.com/dept/detail/C0003">Connectivity R&D Group, Mobile Experience Business,</a> <a href="https://www.samsung.com/us/">Samsung Electronics</a>
-  - Senior Research
+  - Senior Researcher
 - 2023\. 02. ~ 2023. 11.
   - <a href="http://wireless.korea.ac.kr/">Augmented Cognition Meta-Communications Research Center, ERC,</a> <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>
   - Postdoctoral fellow
