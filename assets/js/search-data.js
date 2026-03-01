@@ -47,6 +47,31 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/1-sangwon-hwang.html";
+            },},{id: "members-euntae-seo",
+          title: 'Euntae Seo',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/10-euntae-seo.html";
+            },},{id: "members-hyein-seok",
+          title: 'Hyein Seok',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/11-hyein-seok.html";
+            },},{id: "members-yulim-jung",
+          title: 'Yulim Jung',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/12-yulim-jung.html";
+            },},{id: "members-yujin-park",
+          title: 'Yujin Park',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/13-yujin-park.html";
+            },},{id: "members-bokyeong-pyeon",
+          title: 'Bokyeong Pyeon',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/14-bokyeong-pyeon.html";
             },},{id: "members-hoon-lee",
           title: 'Hoon Lee',
           description: "",
