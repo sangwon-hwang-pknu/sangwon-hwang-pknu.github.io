@@ -41,7 +41,7 @@ By embedding AI into these dynamic and distributed environments, we aim to reali
  We are part of the **Division of Computer and Artificial Intelligence Engineering**, College of Information Convergence, Pukyong National University (PKNU), Busan, South Korea.
 
 - **Professor's Office**: Room 1315, Woongbi Hall (A12)  
-- **Lab Space**: Rooms 1316 & 1321, Woongbi Hall (A12)  
+- **Lab Space**: Rooms 1316 & 1324, Woongbi Hall (A12)  
 - **Address**: 45, Yongso-ro, Nam-gu, Busan, 48513, Korea
 
 ---
