@@ -132,6 +132,11 @@ ninja.data = [{
           description: "Satellite communication systems are key technologies for global connectivity, enabling data transmission over far distances.",
           section: "Research",handler: () => {
               window.location.href = "/research/11_research.html";
+            },},{id: "research-drone-communication-networks",
+          title: 'Drone Communication Networks',
+          description: "Advanced wireless connectivity for aerial platforms, integrating drones as both network providers and service terminals.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/12_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "next-generation communication system description",
