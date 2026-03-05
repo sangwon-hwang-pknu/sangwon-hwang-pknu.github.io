@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-members",
           title: "members",
-          description: "",
+          description: "members of our laboratory by categories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/members/";
@@ -57,11 +57,11 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/11-hyein-seok.html";
-            },},{id: "members-yulim-jung",
-          title: 'Yulim Jung',
+            },},{id: "members-yurim-jeong",
+          title: 'Yurim Jeong',
           description: "",
           section: "Members",handler: () => {
-              window.location.href = "/members/12-yulim-jung.html";
+              window.location.href = "/members/12-yurim-jeong.html";
             },},{id: "members-yujin-park",
           title: 'Yujin Park',
           description: "",
