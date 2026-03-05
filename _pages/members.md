@@ -1,6 +1,7 @@
 ---
 layout: page
 title: members
+description: members of our laboratory by categories.
 permalink: /members/
 nav: true
 nav_order: 7
