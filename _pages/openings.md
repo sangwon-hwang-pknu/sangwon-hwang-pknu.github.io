@@ -14,8 +14,8 @@ The **AIDAN (Artificial Intelligence for Distributed Autonomous Networks) Lab** 
 
 #### <i class="fa-solid fa-user-graduate"></i> 1. Undergraduate Research Interns
 We offer internship opportunities for students to gain hands-on experience in a research environment. 
-- <i class="fa-solid fa-bullseye"></i> **Goal:** Develop technical skills and explore various career paths through participation in lab projects.
-- <i class="fa-solid fa-calendar-check"></i> **Commitment:** Typically on a **one-year basis** (two consecutive semesters) to ensure a meaningful research experience.
+- **Goal:** Develop technical skills and explore various career paths through participation in lab projects.
+- **Commitment:** Typically on a **one-year basis** (two consecutive semesters) to ensure a meaningful research experience.
 
 #### <i class="fa-solid fa-graduation-cap"></i> 2. Graduate Students (Master's & Combined Program)
 We are recruiting dedicated students for our Master’s program and the Combined Bachelor's-Master's track.
@@ -25,15 +25,15 @@ We are recruiting dedicated students for our Master’s program and the Combined
 
 ---
 
-#### <i class="fa-solid fa-list-check"></i> Basic Requirements
-- <i class="fa-solid fa-check"></i> Curiosity and a proactive attitude toward solving technical problems.
-- <i class="fa-solid fa-check"></i> Fundamental knowledge in **Computer Science, Programming, or Communication Networks**.
-- <i class="fa-solid fa-check"></i> Reasonable English proficiency for reading technical papers.
+#### <i class="fa-solid fa-clipboard-check"></i> Basic Requirements
+- Curiosity and a proactive attitude toward solving technical problems.
+- Fundamental knowledge in **Computer Science, Programming, or Communication Networks**.
+- Reasonable English proficiency for reading technical papers.
 
 <div class="alert alert-info" role="alert" style="margin-top: 2rem;">
   <h4 style="margin-top: 0;"><i class="fa-solid fa-paper-plane"></i> How to Apply</h4>
-  If you are interested in joining our team, please contact <strong>Professor Sangwon Hwang</strong> with your <strong>CV</strong> and a <strong>brief statement of interest</strong>.
+  Please contact <strong>Professor Sangwon Hwang</strong> with your <strong>CV and a brief statement of interest</strong>.
   <div style="margin-top: 1rem;">
-    <a href="mailto:s.won.hwang@pknu.ac.kr" class="btn btn-primary btn-sm">Send Email (s.won.hwang@pknu.ac.kr)</a>
+    <a href="mailto:s.won.hwang@pknu.ac.kr" class="btn btn-primary btn-sm">Email (s.won.hwang@pknu.ac.kr)</a>
   </div>
 </div>
