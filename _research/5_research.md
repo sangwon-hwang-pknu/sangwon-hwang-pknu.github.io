@@ -7,7 +7,7 @@ importance: 5
 category: milestone
 ---
 
-Multi-Agent Systems (MAS) represent a branch of artificial intelligence and systems engineering that focuses on the interactions between multiple autonomous entities, known as agents. These agents can be physical entities, such as robots and drones, or virtual entities like software processes. The key challenge in MAS is to design local rules for each agent such that their collective behavior achieves global objectives efficiently and reliably.
+Multi-Agent Systems (MAS) focus on the interactions between multiple autonomous entities, known as agents. These agents can be physical entities, such as drones, or virtual entities like distributed network nodes. The key challenge in MAS is to design local rules for each agent such that their collective behavior achieves global objectives efficiently and reliably in a decentralized manner.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,6 +18,6 @@ Multi-Agent Systems (MAS) represent a branch of artificial intelligence and syst
     Coordination and communication between multiple autonomous agents in a decentralized network.
 </div>
 
-MAS is particularly relevant in the era of decentralized systems, such as smart grids, swarm robotics, and distributed wireless networks. Our research investigates fundamental aspects of MAS, including game theory, distributed optimization, and consensus protocols. We explore how multiple agents can cooperate to solve tasks that are beyond the capabilities of any single agent, while also addressing challenges related to communication overhead and partial observability.
+MAS is particularly relevant in the era of decentralized systems, such as distributed wireless networks and autonomous drone swarms. Our research investigates fundamental aspects of MAS, including game theory, distributed optimization, and consensus protocols. We explore how multiple agents can cooperate to solve tasks that are beyond the capabilities of any single agent, while also addressing challenges related to communication overhead and partial observability.
 
-We are also investigating the intersection of MAS with deep learning, known as Multi-Agent Deep Reinforcement Learning (MADRL). This area explores how multiple DRL agents can learn to interact in common environments, dealing with non-stationarity and the complexities of competitive or collaborative behavior in large-scale systems.
+We are also investigating the intersection of MAS with deep learning, known as Multi-Agent Deep Reinforcement Learning (MADRL). This area explores how multiple DRL agents can learn to interact in common environments, dealing with non-stationarity and the complexities of competitive or collaborative behavior in large-scale network systems.

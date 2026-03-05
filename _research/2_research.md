@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Artificial Intelligence
-description: Artificial intelligence (AI) is the intelligence demonstrated by machines, mimicking human cognitive functions like learning and problem-solving.
+description: Artificial intelligence (AI) is the core technology for developing intelligent algorithms and systems that solve complex optimization and decision-making problems.
 img: assets/img/projects/AI/figure2_0.png
 importance: 2
 category: milestone
 ---
 
-Artificial Intelligence (AI) has evolved from a theoretical concept into a foundational technology that powers much of our modern world. At its core, AI involves developing algorithms and systems capable of performing tasks that typically require human intelligence. This includes everything from natural language processing and computer vision to strategic decision-making and pattern recognition in complex datasets.
+Artificial Intelligence (AI) has evolved into a foundational technology for solving complex optimization and decision-making problems across various engineering domains. At its core, AI involves developing algorithms that can learn from data to perform tasks that traditionally require manual intervention or complex heuristic rules. Our research focuses on leveraging these capabilities to enhance the performance and reliability of modern communication infrastructures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,9 +15,9 @@ Artificial Intelligence (AI) has evolved from a theoretical concept into a found
     </div>
 </div>
 <div class="caption">
-    The evolution of AI from simple logic systems to modern deep learning models.
+    The integration of AI-driven optimization into complex system architectures.
 </div>
 
-The modern AI landscape is characterized by the synergy between high-performance computing, massive data availability, and innovative algorithmic frameworks. We explore how these elements combine to solve real-world problems, ranging from industrial automation to autonomous vehicle systems. Our research particularly emphasizes the robustness and ethical considerations of AI deployment in critical infrastructures.
+The modern AI landscape is characterized by the synergy between high-performance computing, massive data availability, and innovative algorithmic frameworks. We explore how these elements combine to solve real-world engineering problems, particularly in high-dimensional and dynamic environments. Our research emphasizes the robustness and practical feasibility of AI deployment in large-scale network systems.
 
-By integrating AI with traditional engineering disciplines, we aim to create systems that are not only smarter but also more adaptive to changing environments. This includes investigating generative models and their potential applications in data synthesis and system modeling.
+By integrating AI with traditional communication engineering, we aim to create systems that are more adaptive to changing environments. This includes investigating data-driven modeling and its potential applications in system performance analysis and resource optimization.

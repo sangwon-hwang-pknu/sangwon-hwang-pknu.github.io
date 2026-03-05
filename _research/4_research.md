@@ -18,6 +18,6 @@ Deep Reinforcement Learning (DRL) is a powerful framework for training intellige
     The classic agent-environment interaction loop in Deep Reinforcement Learning.
 </div>
 
-DRL has achieved remarkable success in diverse fields, ranging from game-playing (e.g., AlphaGo) to robotics and automated industrial control. In the context of wireless communication, DRL is increasingly used to solve challenging problems like dynamic resource allocation, intelligent spectrum management, and adaptive trajectory planning for aerial vehicles. Our research focuses on developing more sample-efficient and stable DRL algorithms that can be deployed in real-world systems with safety guarantees.
+In the context of wireless communication, DRL is increasingly used to solve challenging problems such as dynamic resource allocation, intelligent spectrum management, and adaptive trajectory planning for aerial vehicles. Our research focuses on developing more sample-efficient and stable DRL algorithms that can be deployed in real-world communication systems with safety and reliability.
 
 We also investigate how to handle high-dimensional and continuous action spaces, which are common in engineering problems. By exploring actor-critic methods and off-policy learning, we aim to build robust agents capable of navigating the trade-offs between exploration and exploitation in highly uncertain and time-varying environments.
