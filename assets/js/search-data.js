@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
+        },{id: "nav-openings",
+          title: "openings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/openings/";
+          },
         },{id: "members-byungju-lim",
           title: 'Byungju Lim',
           description: "",
