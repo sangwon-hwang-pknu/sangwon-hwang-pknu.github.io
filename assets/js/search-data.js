@@ -139,27 +139,27 @@ ninja.data = [{
               window.location.href = "/research/12_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
-          description: "next-generation communication system description",
+          description: "Exploring the evolution toward 6G networks, focusing on extreme connectivity, AI-native air interfaces, and integrated non-terrestrial networks.",
           section: "Research",handler: () => {
               window.location.href = "/research/1_research.html";
             },},{id: "research-artificial-intelligence",
           title: 'Artificial Intelligence',
-          description: "artificial intelligence description",
+          description: "Artificial intelligence (AI) is the intelligence demonstrated by machines, mimicking human cognitive functions like learning and problem-solving.",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research.html";
             },},{id: "research-deep-learning",
           title: 'Deep Learning',
-          description: "deep learning description",
+          description: "Deep learning is a subset of machine learning based on artificial neural networks with multiple layers to extract higher-level features from data.",
           section: "Research",handler: () => {
               window.location.href = "/research/3_research.html";
             },},{id: "research-deep-reinforcement-learning",
           title: 'Deep Reinforcement Learning',
-          description: "deep reinforcement learning description",
+          description: "Deep reinforcement learning (DRL) combines deep learning and reinforcement learning principles to enable agents to learn optimal actions in complex, dynamic environments.",
           section: "Research",handler: () => {
               window.location.href = "/research/4_research.html";
             },},{id: "research-multi-agent-system",
           title: 'Multi-Agent System',
-          description: "multi-agent system description",
+          description: "Multi-agent systems (MAS) study the collective behavior and coordination of multiple autonomous agents in decentralized and dynamic environments.",
           section: "Research",handler: () => {
               window.location.href = "/research/5_research.html";
             },},{id: "research-mobile-edge-computing",
