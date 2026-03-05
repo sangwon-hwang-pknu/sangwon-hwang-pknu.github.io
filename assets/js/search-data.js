@@ -151,7 +151,7 @@ ninja.data = [{
               window.location.href = "/research/1_research.html";
             },},{id: "research-artificial-intelligence",
           title: 'Artificial Intelligence',
-          description: "Artificial intelligence (AI) is the intelligence demonstrated by machines, mimicking human cognitive functions like learning and problem-solving.",
+          description: "Artificial intelligence (AI) is the core technology for developing intelligent algorithms and systems that solve complex optimization and decision-making problems.",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research.html";
             },},{id: "research-deep-learning",
