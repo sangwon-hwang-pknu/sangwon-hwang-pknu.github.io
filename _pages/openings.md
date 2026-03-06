@@ -12,12 +12,12 @@ The **AIDAN (Artificial Intelligence for Distributed Autonomous Networks) Lab** 
 
 ---
 
-#### <i class="fa-solid fa-user-graduate"></i> 1. Undergraduate Research Interns
+#### <i class="fa-solid fa-user-graduate"></i> Undergraduate Research Interns
 We offer internship opportunities for students to gain hands-on experience in a research environment. 
 - **Goal:** Develop technical skills and explore various career paths through participation in lab projects.
 - **Commitment:** Typically on a **one-year basis** (two consecutive semesters) to ensure a meaningful research experience.
 
-#### <i class="fa-solid fa-graduation-cap"></i> 2. Graduate Students (Master's & Combined Program)
+#### <i class="fa-solid fa-graduation-cap"></i> Graduate Students (Master's & Combined Program)
 We are recruiting dedicated students for our Master’s program and the Combined Bachelor's-Master's track.
 - **Combined Program:** A 5-year track (3.5y B.S. + 1.5y M.S.) for early completion of a Master's degree.
 - **Master's Program:** A 2-year intensive research track for specialization in AI-driven networking.
