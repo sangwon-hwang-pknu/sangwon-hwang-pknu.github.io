@@ -7,4 +7,5 @@ email: jeongwonkim@korea.ac.kr
 img: assets/img/members/jeongwon-kim.jpg
 importance: 9
 category: co-researcher
+redirect: https://jeongwon-kim-je0ngw0n.notion.site/Jeongwon-Kim-fdce494fffc383d9bfd8018a44b733b0
 ---
