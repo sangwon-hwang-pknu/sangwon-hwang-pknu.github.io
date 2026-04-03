@@ -11,7 +11,7 @@ Physical Layer Security (PLS) has emerged as a fundamental paradigm for securing
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Security/figure13_0.png" title="project13_security_figure0" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Security/figure13_1.png" title="project13_security_figure0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
