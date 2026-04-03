@@ -144,6 +144,11 @@ ninja.data = [{
           description: "Advanced wireless connectivity for aerial platforms, integrating drones as both network providers and service terminals.",
           section: "Research",handler: () => {
               window.location.href = "/research/12_research.html";
+            },},{id: "research-physical-layer-security",
+          title: 'Physical Layer Security',
+          description: "Physical Layer Security provides an information-theoretic approach to securing wireless communication by exploiting the physical characteristics of the wireless channel.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/13_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "Exploring the evolution toward 6G networks, focusing on extreme connectivity, AI-native air interfaces, and integrated non-terrestrial networks.",
