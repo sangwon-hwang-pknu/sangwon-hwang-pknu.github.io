@@ -141,7 +141,7 @@ ninja.data = [{
               window.location.href = "/research/11_research.html";
             },},{id: "research-drone-communication-networks",
           title: 'Drone Communication Networks',
-          description: "Advanced wireless connectivity for aerial platforms, integrating drones as both network providers and service terminals.",
+          description: "Drone communication networks provide advanced wireless connectivity for aerial platforms by integrating drones as both mobile network providers and service terminals.",
           section: "Research",handler: () => {
               window.location.href = "/research/12_research.html";
             },},{id: "research-physical-layer-security",
@@ -149,6 +149,11 @@ ninja.data = [{
           description: "Physical Layer Security provides an information-theoretic approach to securing wireless communication by exploiting the physical characteristics of the wireless channel.",
           section: "Research",handler: () => {
               window.location.href = "/research/13_research.html";
+            },},{id: "research-offline-reinforcement-learning",
+          title: 'Offline Reinforcement Learning',
+          description: "Offline reinforcement learning enables agents to learn optimal policies from fixed, pre-collected datasets without further interaction with the environment.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/14_research.html";
             },},{id: "research-next-generation-communication-network",
           title: 'Next-generation Communication Network',
           description: "Exploring the evolution toward 6G networks, focusing on extreme connectivity, AI-native air interfaces, and integrated non-terrestrial networks.",
