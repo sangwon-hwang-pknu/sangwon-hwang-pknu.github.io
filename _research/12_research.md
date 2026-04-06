@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Drone Communication Networks
-description: Advanced wireless connectivity for aerial platforms, integrating drones as both network providers and service terminals.
+description: Drone communication networks provide advanced wireless connectivity for aerial platforms by integrating drones as both mobile network providers and service terminals.
 img: assets/img/projects/Drone/figure12_0.png
-importance: 12
+importance: 4
 category: scenario
 ---
 

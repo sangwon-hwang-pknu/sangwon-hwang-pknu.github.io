@@ -3,7 +3,7 @@ layout: page
 title: Physical Layer Security
 description: Physical Layer Security provides an information-theoretic approach to securing wireless communication by exploiting the physical characteristics of the wireless channel.
 img: assets/img/projects/Security/figure13_0.png
-importance: 13
+importance: 5
 category: scenario
 ---
 
