@@ -1,1 +1,1 @@
-let searchTheme=determineComputedTheme();const ninjaKeys=document.querySelector("ninja-keys");"dark"===searchTheme?ninjaKeys.classList.add("dark"):ninjaKeys.classList.remove("dark");const openSearchModal=()=>{const e=$("#navbarNav");e.hasClass("show")&&e.collapse("hide"),ninjaKeys.open()};
+window.initializeSearchTheme=()=>{const e=determineComputedTheme(),i=document.querySelector("ninja-keys");i&&("dark"===e?i.classList.add("dark"):i.classList.remove("dark"))},window.initializeSearchTheme();
