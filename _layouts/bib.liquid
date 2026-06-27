@@ -84,6 +84,7 @@
       {% endif %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
+        {% assign author_position = forloop.index %}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
@@ -97,8 +98,33 @@
         {% if site.data.coauthors[clean_last_name] %}
           {%- for coauthor in site.data.coauthors[clean_last_name] -%}
             {% if coauthor.firstname contains author.first %}
-              {%- assign coauthor_url = coauthor.url -%}
-              {% break %}
+              {% assign coauthor_excluded = false %}
+              {% if coauthor.exclude %}
+                {%- for excluded_entry in coauthor.exclude -%}
+                  {% assign excluded_position = excluded_entry.position | plus: 0 %}
+                  {% if excluded_entry.key == entry.key and excluded_position == author_position %}
+                    {% assign coauthor_excluded = true %}
+                    {% break %}
+                  {% endif %}
+                {%- endfor -%}
+              {% endif %}
+              {% unless coauthor_excluded %}
+                {% if coauthor.entries %}
+                  {%- for scoped_entry in coauthor.entries -%}
+                    {% assign scoped_position = scoped_entry.position | plus: 0 %}
+                    {% if scoped_entry.key == entry.key and scoped_position == author_position %}
+                      {%- assign coauthor_url = coauthor.url -%}
+                      {% break %}
+                    {%- endif -%}
+                  {% endfor %}
+                  {% if coauthor_url %}
+                    {% break %}
+                  {% endif %}
+                {% else %}
+                  {%- assign coauthor_url = coauthor.url -%}
+                  {% break %}
+                {% endif %}
+              {% endunless %}
             {%- endif -%}
           {% endfor %}
         {%- endif -%}

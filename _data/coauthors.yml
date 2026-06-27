@@ -24,6 +24,20 @@
   - firstname: ["S."]
     url: https://scholar.google.com/citations?user=kiUWA5QAAAAJ
 
+  - firstname: ["J."]
+    url: "https://scholar.google.com/citations?user=RDKqOt8AAAAJ&hl=ko"
+    exclude:
+      - key: "ZFu:TVT26"
+        position: 6
+
+"eom":
+  - firstname: ["S."]
+    url: "https://scholar.google.com/citations?user=oocZXhQAAAAJ&hl=ko"
+
+"seo":
+  - firstname: ["E."]
+    url: "https://dune-bite-308.notion.site/Euntae-Seo-31c8393c954580c59e20f808941c8109"
+
 "zhang":
   - firstname: ["D."]
     url: https://scholar.google.com/citations?user=FHnG2AwAAAAJ
