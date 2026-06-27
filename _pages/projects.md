@@ -36,7 +36,7 @@ nav_order: 4
   .project-title {
     margin-bottom: 0.55rem;
     font-size: 1.05rem;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.35;
   }
 
