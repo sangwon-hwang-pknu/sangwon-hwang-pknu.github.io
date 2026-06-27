@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "current and past research projects at AIDAN Lab.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-members",
           title: "members",
           description: "members of our laboratory by categories.",
