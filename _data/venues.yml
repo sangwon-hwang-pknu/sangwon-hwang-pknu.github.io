@@ -41,6 +41,10 @@
   url: https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings
   color: "#FFFFFF"
 
+"KICS":
+  url: https://www.kics.or.kr
+  color: "#FFFFFF"
+
 "WCL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382
   color: "#FFFFFF"
