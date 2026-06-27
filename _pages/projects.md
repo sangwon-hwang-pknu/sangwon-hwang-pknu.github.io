@@ -11,15 +11,33 @@ nav_order: 4
 
 <style>
   .project-list {
-    margin-top: 1.5rem;
+    margin-top: 1rem;
   }
 
-  .project-card {
-    border-left: 4px solid var(--global-theme-color);
+  .project-heading {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 
-  .project-card .card-title {
-    margin-bottom: 0.75rem;
+  .project-heading-past {
+    margin-top: 3rem;
+  }
+
+  .project-item {
+    padding: 1.1rem 0 1.15rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .project-item:first-child {
+    border-top: 0;
+    padding-top: 0.25rem;
+  }
+
+  .project-title {
+    margin-bottom: 0.55rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.35;
   }
 
   .project-meta {
@@ -29,12 +47,17 @@ nav_order: 4
   }
 
   .project-meta li {
-    margin: 0.35rem 0;
+    margin: 0.25rem 0;
+    font-size: 0.92rem;
+    line-height: 1.45;
   }
 
   .project-meta strong {
     display: inline-block;
     min-width: 5rem;
+    font-size: 0.86rem;
+    font-weight: 600;
+    color: var(--global-text-color-light);
   }
 
   .project-empty {
@@ -42,12 +65,12 @@ nav_order: 4
   }
 </style>
 
-### Current
+<h3 class="project-heading">Current</h3>
 
 <div class="project-list">
   <!-- Keep projects ordered by start date, newest first. Apply the same rule to Past projects. -->
-  <div class="card project-card mt-3 p-3">
-    <h4 class="card-title">Development of an AI-Based Adaptive Underwater Optical Communication Receiver with Ultra-Sensitive and High-Speed Dual-Mode Reception</h4>
+  <div class="project-item">
+    <h4 class="project-title">Development of an AI-Based Adaptive Underwater Optical Communication Receiver with Ultra-Sensitive and High-Speed Dual-Mode Reception</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
       <li><strong>Program</strong> <a href="https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1" target="_blank" rel="noopener noreferrer">Global Basic Research Laboratory (BRL)</a></li>
@@ -55,8 +78,8 @@ nav_order: 4
     </ul>
   </div>
 
-  <div class="card project-card mt-3 p-3">
-    <h4 class="card-title">Space-layer Intelligent Communication Network Research Laboratory</h4>
+  <div class="project-item">
+    <h4 class="project-title">Space-layer Intelligent Communication Network Research Laboratory</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.krit.re.kr/cover.jsp" target="_blank" rel="noopener noreferrer">Korea Research Institute for Defense Technology Planning and Advancement (KRIT)</a></li>
       <li><strong>Program</strong> Specialized Research Laboratory</li>
@@ -65,6 +88,6 @@ nav_order: 4
   </div>
 </div>
 
-### Past
+<h3 class="project-heading project-heading-past">Past</h3>
 
 <p class="project-empty">Past projects will be added here.</p>
