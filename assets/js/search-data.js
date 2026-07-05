@@ -140,7 +140,7 @@ ninja.data = [{
           title: 'AIDAN Lab Joined NRF BRL Project',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-06-29-nrf-brl-underwater-optical-communication.html";
+              window.location.href = "/news/announcement_3.html";
             },},{id: "research-convex-optimization",
           title: 'Convex Optimization',
           description: "Convex optimization is a subfield of optimization focusing on minimizing convex functions over convex sets.",
