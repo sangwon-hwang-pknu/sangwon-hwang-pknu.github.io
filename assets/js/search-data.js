@@ -136,8 +136,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-aidan-lab-joins-nrf-brl-project-on-ai-based-underwater-optical-communication",
-          title: 'AIDAN Lab Joins NRF BRL Project on AI-Based Underwater Optical Communication',
+            },},{id: "news-aidan-lab-joined-nrf-brl-project",
+          title: 'AIDAN Lab Joined NRF BRL Project',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-29-nrf-brl-underwater-optical-communication.html";
