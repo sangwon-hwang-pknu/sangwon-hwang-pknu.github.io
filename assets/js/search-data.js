@@ -66,6 +66,11 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/10-euntae-seo.html";
+            },},{id: "members-seojun-lim",
+          title: 'Seojun Lim',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/seojun-lim/";
             },},{id: "members-hyein-seok",
           title: 'Hyein Seok',
           description: "",
