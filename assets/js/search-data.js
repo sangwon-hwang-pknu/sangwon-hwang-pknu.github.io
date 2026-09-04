@@ -70,7 +70,7 @@ ninja.data = [{
           title: 'Seojun Lim',
           description: "",
           section: "Members",handler: () => {
-              window.location.href = "/members/seojun-lim/";
+              window.location.href = "/members/10-seojun-lim.html";
             },},{id: "members-hyein-seok",
           title: 'Hyein Seok',
           description: "",
