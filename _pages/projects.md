@@ -70,6 +70,24 @@ nav_order: 4
 <div class="project-list">
   <!-- Keep projects ordered by start date, newest first. Apply the same rule to Past projects. -->
   <div class="project-item">
+    <h4 class="project-title">Constraint-Aware Offline Reinforcement Learning (CAORL) Framework for Adaptive Control in Constraint-Critical Dynamic ISAC Environments</h4>
+    <ul class="project-meta">
+      <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
+      <li><strong>Program</strong> Core Research (Basic Research A)</li>
+      <li><strong>Period</strong> Sep. 2026 - Aug. 2031</li>
+    </ul>
+  </div>
+
+  <div class="project-item">
+    <h4 class="project-title">Development of Process Time-Series Data Prediction and Anomaly Detection Algorithms</h4>
+    <ul class="project-meta">
+      <li><strong>Agency</strong> <a href="https://www.keti.re.kr/eng/" target="_blank" rel="noopener noreferrer">Korea Electronics Technology Institute (KETI)</a></li>
+      <li><strong>Program</strong> Commissioned Research Project</li>
+      <li><strong>Period</strong> Aug. 2026 - Nov. 2026</li>
+    </ul>
+  </div>
+
+  <div class="project-item">
     <h4 class="project-title">Development of an AI-Based Adaptive Underwater Optical Communication Receiver with Ultra-Sensitive and High-Speed Dual-Mode Reception</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>

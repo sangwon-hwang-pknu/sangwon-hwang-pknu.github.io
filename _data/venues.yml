@@ -45,6 +45,10 @@
   url: https://www.kics.or.kr
   color: "#FFFFFF"
 
+"JKICS":
+  url: https://journal.kics.or.kr/
+  color: "#FFFFFF"
+
 "WCL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382
   color: "#FFFFFF"
