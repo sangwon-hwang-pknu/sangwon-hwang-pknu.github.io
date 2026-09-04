@@ -1,20 +1,10 @@
 ---
 layout: page
 title: Seojun Lim
-degree: Ph.D. Candidate
+degree: Ph.D. Candidate (Co-advised by Prof. Tae-Kook Kim)
 affiliation: Department of Artificial Intelligence Convergence, Graduate School, Pukyong National University
+email: seojun@pukyong.ac.kr
 img: assets/img/members/seojun-lim.jpg
-importance: 10
+importance: 11
 category: graduate students
-permalink: /members/seojun-lim/
-redirect: /members/seojun-lim/
 ---
-
-## Education
-
-- Ph.D. Candidate in Artificial Intelligence Convergence, Pukyong National University, Korea (Mar. 2026 - Present)
-- M.S., Kyungpook National University, Korea
-
-## Advising
-
-Co-advised by Prof. Sangwon Hwang and [Prof. Tae-Kook Kim](https://network.pknu.ac.kr/network/2894).

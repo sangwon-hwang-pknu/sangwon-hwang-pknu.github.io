@@ -73,7 +73,7 @@ nav_order: 4
     <h4 class="project-title">Constraint-Aware Offline Reinforcement Learning (CAORL) Framework for Adaptive Control in Constraint-Critical Dynamic ISAC Environments</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
-      <li><strong>Program</strong> Core Research (Basic Research A)</li>
+      <li><strong>Program</strong> <a href="https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1" target="_blank" rel="noopener noreferrer">Core Research Grants</a></li>
       <li><strong>Period</strong> Sep. 2026 - Aug. 2031</li>
     </ul>
   </div>
