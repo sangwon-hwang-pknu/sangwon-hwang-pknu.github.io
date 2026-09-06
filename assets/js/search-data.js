@@ -91,6 +91,11 @@ ninja.data = [{
           description: "",
           section: "Members",handler: () => {
               window.location.href = "/members/14-bokyeong-pyeon.html";
+            },},{id: "members-seonjun-park",
+          title: 'Seonjun Park',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/15-seonjun-park.html";
             },},{id: "members-hoon-lee",
           title: 'Hoon Lee',
           description: "",
