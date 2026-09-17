@@ -26,6 +26,7 @@ nav_order: 4
   .project-item {
     padding: 1.1rem 0 1.15rem;
     border-top: 1px solid var(--global-divider-color);
+    scroll-margin-top: 5rem;
   }
 
   .project-item:first-child {
@@ -69,7 +70,7 @@ nav_order: 4
 
 <div class="project-list">
   <!-- Keep projects ordered by start date, newest first. Apply the same rule to Past projects. -->
-  <div class="project-item">
+  <div class="project-item" id="nrf-core-research">
     <h4 class="project-title">Constraint-Aware Offline Reinforcement Learning (CAORL) Framework for Adaptive Control in Constraint-Critical Dynamic ISAC Environments</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
@@ -78,7 +79,7 @@ nav_order: 4
     </ul>
   </div>
 
-  <div class="project-item">
+  <div class="project-item" id="keti-time-series">
     <h4 class="project-title">Development of Process Time-Series Data Prediction and Anomaly Detection Algorithms</h4>
     <ul class="project-meta">
       <li><strong>Agency</strong> <a href="https://www.keti.re.kr/eng/" target="_blank" rel="noopener noreferrer">Korea Electronics Technology Institute (KETI)</a></li>
