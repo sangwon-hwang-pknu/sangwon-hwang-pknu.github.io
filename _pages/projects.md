@@ -76,6 +76,7 @@ nav_order: 4
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
       <li><strong>Program</strong> <a href="https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1" target="_blank" rel="noopener noreferrer">Core Research Grants (Type A)</a></li>
       <li><strong>Period</strong> Sep. 2026 - Aug. 2031</li>
+      <li><strong>Role</strong> Principal Investigator (PI)</li>
     </ul>
   </div>
 
@@ -85,6 +86,7 @@ nav_order: 4
       <li><strong>Agency</strong> <a href="https://www.keti.re.kr/eng/" target="_blank" rel="noopener noreferrer">Korea Electronics Technology Institute (KETI)</a></li>
       <li><strong>Program</strong> Commissioned Research Project</li>
       <li><strong>Period</strong> Aug. 2026 - Nov. 2026</li>
+      <li><strong>Role</strong> Principal Investigator (PI)</li>
     </ul>
   </div>
 
@@ -94,6 +96,7 @@ nav_order: 4
       <li><strong>Agency</strong> <a href="https://www.nrf.re.kr/" target="_blank" rel="noopener noreferrer">National Research Foundation of Korea (NRF)</a></li>
       <li><strong>Program</strong> <a href="https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1" target="_blank" rel="noopener noreferrer">Global Basic Research Laboratory (BRL)</a></li>
       <li><strong>Period</strong> Jul. 2026 - Jun. 2029</li>
+      <li><strong>Role</strong> Co-Investigator (Co-I)</li>
     </ul>
   </div>
 
@@ -103,6 +106,7 @@ nav_order: 4
       <li><strong>Agency</strong> <a href="https://www.krit.re.kr/cover.jsp" target="_blank" rel="noopener noreferrer">Korea Research Institute for Defense Technology Planning and Advancement (KRIT)</a></li>
       <li><strong>Program</strong> Specialized Research Laboratory</li>
       <li><strong>Period</strong> Dec. 2022 - Nov. 2028</li>
+      <li><strong>Role</strong> Co-Investigator (Co-I)</li>
     </ul>
   </div>
 </div>
