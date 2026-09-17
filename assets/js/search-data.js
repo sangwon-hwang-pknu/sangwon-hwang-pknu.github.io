@@ -151,6 +151,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
+            },},{id: "news-aidan-lab-started-keti-research-project",
+          title: 'AIDAN Lab Started KETI Research Project',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4.html";
+            },},{id: "news-aidan-lab-started-nrf-crg-project",
+          title: 'AIDAN Lab Started NRF CRG Project',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5.html";
             },},{id: "research-convex-optimization",
           title: 'Convex Optimization',
           description: "Convex optimization is a subfield of optimization focusing on minimizing convex functions over convex sets.",
