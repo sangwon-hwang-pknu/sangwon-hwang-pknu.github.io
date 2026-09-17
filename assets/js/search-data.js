@@ -156,8 +156,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
-            },},{id: "news-aidan-lab-joined-nrf-crg-project",
-          title: 'AIDAN Lab Joined NRF CRG Project',
+            },},{id: "news-aidan-lab-awarded-nrf-core-research-grant",
+          title: 'AIDAN Lab Awarded NRF Core Research Grant',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5.html";
