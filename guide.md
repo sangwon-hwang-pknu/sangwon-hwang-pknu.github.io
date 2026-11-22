@@ -19,6 +19,7 @@ The repository is organized into a few main layers.
 ### Configuration
 
 - `_config.yml`
+
   - Global site settings
   - Feature flags
   - Collection definitions
@@ -30,13 +31,16 @@ The repository is organized into a few main layers.
 ### Layouts
 
 - `_layouts/default.liquid`
+
   - Main page shell used by most pages
   - Assembles head, header, content, footer, and scripts
 
 - `_layouts/about.liquid`
+
   - Home page layout
 
 - `_layouts/page.liquid`
+
   - Generic inner page layout
 
 - Other files in `_layouts/`
@@ -49,18 +53,23 @@ Reusable template fragments live in `_includes/`.
 Important ones:
 
 - `_includes/head.liquid`
+
   - CSS, metadata, fonts, theme script
 
 - `_includes/header.liquid`
+
   - Top navigation bar
 
 - `_includes/footer.liquid`
+
   - Footer content
 
 - `_includes/scripts.liquid`
+
   - Shared JavaScript loaded near the end of the page
 
 - `_includes/research.liquid`
+
   - One research card
 
 - `_includes/members.liquid`
@@ -69,12 +78,15 @@ Important ones:
 ### Content
 
 - `_pages/`
+
   - Top-level pages such as home, research, and members
 
 - `_research/`
+
   - Research collection entries
 
 - `_members/`
+
   - Member collection entries
 
 - `_news/`, posts, and other collections
@@ -83,9 +95,11 @@ Important ones:
 ### Assets
 
 - `assets/css/`
+
   - Site styles
 
 - `assets/js/`
+
   - Frontend behavior
 
 - `assets/img/`
