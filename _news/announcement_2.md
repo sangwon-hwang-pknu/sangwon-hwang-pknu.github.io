@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ---
+
 The official website of **AIDAN (Artificial Intelligence for Distributed Autonomous Networks)** has been launched.  
 The site introduces the lab’s research vision, members, publications, and announcements.
 

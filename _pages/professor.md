@@ -36,6 +36,7 @@ Sangwon Hwang (s.won.hwang@pknu.ac.kr) received the B.S. and Ph.D. degrees from 
   - Postdoctoral fellow
   - Supervisor : <a href="https://scholar.google.com/citations?user=y0ve6xwAAAAJ">Inkyu Lee</a>
 - 2021\. 12. ~ 2023. 01.
+
   - <a href="https://www.kibo.or.kr/english/work/work020101.do">Central Technology Appraisal Institutes, Korea Technology Finance Corporation (KOTEC)</a>
   - Assistant Manager
 
@@ -43,7 +44,6 @@ Sangwon Hwang (s.won.hwang@pknu.ac.kr) received the B.S. and Ph.D. degrees from 
   - <a href="https://smithengineering.queensu.ca/ece/">Department of Electrical and Computer Engineering, </a><a href="https://www.queensu.ca/">Queen's University</a>
   - Visiting Student
   - Advisor : <a href="https://scholar.google.com/citations?user=iyufC8kAAAAJ">IL-min Kim</a>
-
 
 ## Awards and Honor
 

@@ -19,11 +19,13 @@ Offline Reinforcement Learning (Offline RL), also known as batch reinforcement l
 </div>
 
 Our research in this area addresses the fundamental challenges of Offline RL, particularly the issue of **distribution shift**. When a learned policy deviates significantly from the behavior policy that generated the dataset, the agent may encounter "out-of-distribution" (OOD) states and actions, leading to highly over-optimistic value estimations—a phenomenon known as **extrapolation error**. We investigate various state-of-the-art techniques to mitigate these errors, including:
+
 - **Policy Constraint Methods:** Restricting the learned policy to stay close to the behavior policy to avoid OOD actions.
 - **Uncertainty-based Regularization:** Incorporating uncertainty quantification to penalize value estimates for rarely seen state-action pairs.
 - **Model-based Offline RL:** Learning a world model from the dataset and performing safe planning or policy optimization within the learned model.
 
 A key application of our Offline RL research is in **Next-Generation Communication Networks**. In real-world wireless systems, such as 5G/6G base stations or satellite networks, performing "trial-and-error" exploration (online RL) can disrupt services and degrade user experience. By utilizing vast amounts of historical telemetry and log data, we develop Offline RL algorithms for:
+
 - **Intelligent Resource Allocation:** Optimizing power, bandwidth, and beamforming parameters based on historical traffic patterns and channel conditions.
 - **Autonomous Network Management:** Learning robust handover and interference management policies from historical network operation data.
 - **Energy-Efficient Scheduling:** Developing scheduling policies that minimize power consumption while meeting strict Quality of Service (QoS) requirements, all without the risk of online exploration.

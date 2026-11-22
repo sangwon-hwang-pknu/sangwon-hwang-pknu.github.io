@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ---
+
 AIDAN Lab has joined a commissioned research project supported by the **Korea Electronics Technology Institute (KETI)** on **process time-series prediction and anomaly detection**.
 
 The project runs from **August to November 2026**.

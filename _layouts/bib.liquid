@@ -26,7 +26,7 @@
         {% endif %}
       {% endif %}
       {%- if entry.tags -%}
-        {% assign tags = entry.tags | split: ";" %}
+        {% assign tags = entry.tags | split: ';' %}
         {% for tag in tags %}
           {%- if site.data.venues[tag] -%}
             {% assign venue_style = null %}
@@ -48,7 +48,7 @@
           {% else %}
             <abbr class="badge rounded w-100">{{ tag }}</abbr>
           {% endif %}
-        {% endfor %}    
+        {% endfor %}
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

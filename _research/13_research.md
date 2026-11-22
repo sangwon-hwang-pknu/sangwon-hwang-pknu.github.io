@@ -19,6 +19,7 @@ Physical Layer Security (PLS) has emerged as a fundamental paradigm for securing
 </div>
 
 Our research in this domain focuses on the design and optimization of advanced signal processing techniques to ensure secure data transmission in highly dynamic and vulnerable environments. We investigate various PLS strategies, such as:
+
 - **Artificial Noise (AN) Injection:** Strategically adding noise to the transmitted signal to degrade the eavesdropper's channel while minimizing the impact on the legitimate receiver.
 - **Secure Beamforming:** Designing transmit weight vectors to maximize the secrecy rate by focusing signal energy toward the intended user and creating nulls or interference at potential eavesdropping locations.
 - **Cooperative Jamming:** Utilizing friendly relays or nodes to transmit jamming signals that specifically target malicious eavesdroppers.
@@ -26,4 +27,3 @@ Our research in this domain focuses on the design and optimization of advanced s
 A significant portion of our work is dedicated to **Secure UAV Communication Systems**. Due to their line-of-sight (LoS) dominant channels and high mobility, UAVs are particularly susceptible to eavesdropping and jamming. We develop resource allocation and trajectory optimization algorithms that jointly consider communication efficiency and physical layer security to protect UAV-aided networks.
 
 Furthermore, we are actively exploring **Covert Communications**, a specialized branch of PLS where the goal is to hide the very existence of the communication process from an adversary (the "warden"). This is achieved by carefully controlling transmission power and utilizing sophisticated embedding techniques, such as power-domain binary embedding, to ensure that the transmitted signal is indistinguishable from background noise or legitimate traffic. Our recent work in multi-antenna two-way relay systems and energy harvesting networks demonstrates the potential of covert communication in enhancing the privacy and security of next-generation wireless systems.
-          

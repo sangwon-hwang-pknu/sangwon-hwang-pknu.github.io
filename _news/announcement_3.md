@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ---
+
 AIDAN Lab has joined a project under the **NRF Basic Research Laboratory (BRL)** program on **AI-based adaptive underwater optical communication receivers**.
 
 The project is led by **Prof. Wanyoung Chung** at **Pukyong National University** and aims to develop ultra-sensitive, high-speed dual-mode receiver technologies for reliable underwater optical communication.

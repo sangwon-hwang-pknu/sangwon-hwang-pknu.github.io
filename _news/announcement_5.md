@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ---
+
 AIDAN Lab has been awarded an **NRF Core Research Grant (Type A)** to support research on **constraint-aware offline reinforcement learning** for adaptive control in dynamic integrated sensing and communication (ISAC) environments.
 
 The project runs from **September 2026 to August 2031**.

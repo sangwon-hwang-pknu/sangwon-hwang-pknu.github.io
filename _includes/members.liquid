@@ -4,45 +4,45 @@
   {% else %}
     <div>
   {% endif %}
-    <div class="card h-100 hoverable">
-      {% if member.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=member.img
-          sizes = "250px"
-          alt="member thumbnail"
-          class="card-img-top"
-        %}
+  <div class="card h-100 hoverable">
+    {% if member.img %}
+      {%
+        include figure.liquid
+        loading="eager"
+        path=member.img
+        sizes = "250px"
+        alt="member thumbnail"
+        class="card-img-top"
+      %}
+    {% endif %}
+    <div class="card-body">
+      <h2 class="card-title">{{ member.title }}</h2>
+      {% if member.affiliation %}
+        <p class="card-text">{{ member.affiliation }}</p>
       {% endif %}
-      <div class="card-body">
-        <h2 class="card-title">{{ member.title }}</h2>
-        {% if member.affiliation %}
-          <p class="card-text">{{ member.affiliation }}</p>
-        {% endif %}
-        {% if member.degree %}
-          <p class="card-text">{{ member.degree }}</p>
-        {% endif %}
-        {% if member.email %}
-          <p class="card-text">{{ member.email }}</p>
-        {% endif %}
-        <div class="row ml-1 mr-1 p-0">
-          {% if member.github %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ member.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-              {% if member.github_stars %}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fa-solid fa-star"></i>
-                  <span id="{{ member.github_stars }}-stars"></span>
-                </span>
-              {% endif %}
+      {% if member.degree %}
+        <p class="card-text">{{ member.degree }}</p>
+      {% endif %}
+      {% if member.email %}
+        <p class="card-text">{{ member.email }}</p>
+      {% endif %}
+      <div class="row ml-1 mr-1 p-0">
+        {% if member.github %}
+          <div class="github-icon">
+            <div class="icon" data-toggle="tooltip" title="Code Repository">
+              <a href="{{ member.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
             </div>
-          {% endif %}
-        </div>
+            {% if member.github_stars %}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fa-solid fa-star"></i>
+                <span id="{{ member.github_stars }}-stars"></span>
+              </span>
+            {% endif %}
+          </div>
+        {% endif %}
       </div>
     </div>
+  </div>
   {% if member.redirect %}
     </a>
   {% else %}

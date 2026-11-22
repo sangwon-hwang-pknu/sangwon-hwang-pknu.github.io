@@ -35,13 +35,14 @@ These AI technologies are applied to develop adaptive and decentralized intellig
 
 By embedding AI into these dynamic and distributed environments, we aim to realize communication systems capable of autonomous operation, context-aware decision-making, and seamless coordination across distributed agents and networked systems.
 
-
 ---
-### 📌 Location
- We are part of the **Division of Computer and Artificial Intelligence Engineering**, College of Information Convergence, Pukyong National University (PKNU), Busan, South Korea.
 
-- **Professor's Office**: Room 1315, Woongbi Hall (A12)  
-- **Lab Space**: Rooms 1316 & 1324, Woongbi Hall (A12)  
+### 📌 Location
+
+We are part of the **Division of Computer and Artificial Intelligence Engineering**, College of Information Convergence, Pukyong National University (PKNU), Busan, South Korea.
+
+- **Professor's Office**: Room 1315, Woongbi Hall (A12)
+- **Lab Space**: Rooms 1316 & 1324, Woongbi Hall (A12)
 - **Address**: 45, Yongso-ro, Nam-gu, Busan, 48513, Korea
 
 ---

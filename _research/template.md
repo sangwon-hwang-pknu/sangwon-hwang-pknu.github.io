@@ -1,10 +1,10 @@
 ---
-layout: 
-title: 
-description: 
-img: 
-importance: 
-category: 
+layout:
+title:
+description:
+img:
+importance:
+category:
 ---
 
 Every project has a beautiful feature showcase page.
