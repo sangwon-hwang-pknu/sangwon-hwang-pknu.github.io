@@ -65,6 +65,7 @@ Sangwon Hwang (s.won.hwang@pknu.ac.kr) received the B.S. and Ph.D. degrees from 
 - Reviewer
   - Journal
     - IEEE Journal on Selected Areas in Communications
+    - IEEE Wireless Communications
     - IEEE Network
     - IEEE Internet of Things Journal
     - IEEE Transactions on Vehicular Technology
