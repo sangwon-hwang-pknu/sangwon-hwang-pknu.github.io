@@ -240,6 +240,9 @@ scholar:
   details_link: Details
 
   query: "@*"
+  # Sort publications by year and month, newest first.
+  sort_by: [year, month]
+  order: descending
   group_by: year
   group_order: descending
 
